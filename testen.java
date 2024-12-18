@@ -7,5 +7,6 @@ public class testen {
         int c = 6;
         int aa = 44;
         int d = 0;
+        int f = 67;
     }
 }
