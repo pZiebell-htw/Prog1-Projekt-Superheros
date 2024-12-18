@@ -6,5 +6,6 @@ public class testen {
         int b = 4;
         int c = 6;
         int aa = 44;
+        int d = 0;
     }
 }
