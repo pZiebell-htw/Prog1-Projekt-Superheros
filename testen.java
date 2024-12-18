@@ -3,5 +3,6 @@ public class testen {
         System.out.println("hello world");
         int a = 5;
         System.out.println("Moin meister");
+        int b = 4;
     }
 }
