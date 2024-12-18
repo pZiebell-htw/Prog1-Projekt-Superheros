@@ -10,5 +10,8 @@ public class testen {
         int f = 67;
         int ff = 78;
         System.out.println("hallo du ");
+        System.out.println("hallo du ");
+        System.out.println("hallo du ");
+        
     }
 }
