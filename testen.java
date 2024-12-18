@@ -8,5 +8,6 @@ public class testen {
         int aa = 44;
         int d = 0;
         int f = 67;
+        int ff = 78;
     }
 }
