@@ -4,5 +4,6 @@ public class testen {
         int a = 5;
         System.out.println("Moin meister");
         int b = 4;
+        int c = 6;
     }
 }
