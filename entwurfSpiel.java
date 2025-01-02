@@ -74,14 +74,14 @@ public class entwurfSpiel {
 
         System.out.println("Superheld.1(Name):");
         System.out.println(" ");
-        System.out.println("id: ...");
-        System.out.println("energyPointsCurrent: ...");
-        System.out.println("energyPointsMax: ...");
-        System.out.println("experiencePoints: ...");
-        System.out.println("lives: ...");
-        System.out.println("readyToFight: ...");
-        System.out.println("inFight: ...");
-        System.out.println("alive: ...");
+        System.out.println("id:                     ...");
+        System.out.println("energyPointsCurrent:    ...");
+        System.out.println("energyPointsMax:        ...");
+        System.out.println("experiencePoints:       ...");
+        System.out.println("lives:                  ...");
+        System.out.println("readyToFight:           ...");
+        System.out.println("inFight:                ...");
+        System.out.println("alive:                  ...");
         System.out.println("______________________________________________");
         System.out.println("______________________________________________");
         System.out.println(" ");
