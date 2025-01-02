@@ -27,5 +27,10 @@ public class entwurfSpiel {
         System.out.println("readyToFight: ...");
         System.out.println("inFight: ...");
         System.out.println("alive: ...");
+
+        //(1)  Create Superhero
+
+        System.out.println("(1)  Create Superhero");
+        System.out.println("(1)  Create Superhero");
     }
 }
