@@ -16,6 +16,11 @@ public class entwurfSpiel {
         System.out.println(" ");
         System.out.println("Please pick a number between 1 and 6:");
         System.out.println("______________________________________________");
+        System.out.println(" ");
+        System.out.println("You did an incorrect input!!!");
+        System.out.println("PLEASE PICK A NUMBER BETWEEN 1 AND 6");
+
+        System.out.println("______________________________________________");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -122,23 +127,11 @@ public class entwurfSpiel {
         System.out.println("______________________________________________");
         System.out.println(" ");
 
-        System.out.println("---- Explore Raid ----");
+        System.out.println("---- Meet Enemy ----");
         System.out.println(" ");
         System.out.println("Your team has detected an enemy. Which superhero do you want to choose for this quest?");
         System.out.println("(1)     Fight");
         System.out.println("(2)     Challange Enemy");
-        System.out.println("______________________________________________");
-        System.out.println(" ");
-
-        System.out.println("---- Fight ----");
-        System.out.println(" ");
-        System.out.println("The superhero is ready to fight");
-        System.out.println("______________________________________________");
-        System.out.println(" ");
-
-        System.out.println("---- Fight ----");
-        System.out.println(" ");
-        System.out.println("The superhero is not ready to fight");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
