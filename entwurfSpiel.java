@@ -1,5 +1,7 @@
 public class entwurfSpiel {
     public static void main(String[] args) {
+        System.out.println("______________________________________________");
+        System.out.println("");
         System.out.println("Superheroes vs. IT-Giant 1.0");
         System.out.println("(1)  Create Superhero");
         System.out.println("(2)  Show Selected Superhero");
@@ -34,7 +36,6 @@ public class entwurfSpiel {
         System.out.println("");
 
         //(1)  Create Superhero
-        System.out.println("");
 
         System.out.println("(1)  Create Superhero");
         System.out.println("");
