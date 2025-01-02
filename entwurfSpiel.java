@@ -1,5 +1,7 @@
 
 
+
+
 public class entwurfSpiel {
     public static void main(String[] args) {
         System.out.println("______________________________________________");
@@ -130,8 +132,17 @@ public class entwurfSpiel {
         System.out.println("---- Meet Enemy ----");
         System.out.println(" ");
         System.out.println("Your team has detected an enemy. Which superhero do you want to choose for this quest?");
+        System.out.println("(1)     Superheld.1(Name)");
+        System.out.println("(2)     Superheld.2(Name)");
+        System.out.println("(3)     Superheld.3(Name)");
+        System.out.println("Please pick a number between 1 and 3");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+        
+        System.out.println("What do you want to do?");
         System.out.println("(1)     Fight");
         System.out.println("(2)     Challange Enemy");
+        System.out.println("Please pick a number between 1 and 2");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
