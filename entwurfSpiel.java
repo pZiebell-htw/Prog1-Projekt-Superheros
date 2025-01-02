@@ -7,6 +7,7 @@ public class entwurfSpiel {
         System.out.println("(4)  Delete Superhero");
         System.out.println("(5)  Start Raid");
         System.out.println("(6)  Quit");
+        System.out.println("Please choose a number between 1 und 6:");
         System.out.println("______________________________________________");
 
         System.out.println("(2)  Show Selected Superhero");
