@@ -265,6 +265,96 @@ public class entwurfSpiel {
                         " / _` |/ _ \\  _/ _ \\/ _` | __|\n" + //
                         "| (_| |  __/ ||  __/ (_| | |_ \n" + //
                         " \\__,_|\\___|_| \\___|\\__,_|\\__|");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+        System.out.println("---- Challange Manager ----");
+        System.out.println(" ");
+        System.out.println("(1) Roll the dice");
+        System.out.println(" ");
+        System.out.println("Please press 1");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+        System.out.println("---- Challange Manager ----");
+        System.out.println(" ");
+        System.out.println("You rolled 1");
+        System.out.println("Your sum is 1");
+        System.out.println("Do you want to roll the dice again?");
+        System.out.println("(1)Yes      (2)No ");
+        System.out.println("Please press a number between 1 and 2");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+        System.out.println("---- Challange Manager ----");
+        System.out.println(" ");
+        System.out.println("You rolled 6");
+        System.out.println("Your sum is 7");
+        System.out.println("Do you want to roll the dice again?");
+        System.out.println("(1)Yes      (2)No ");
+        System.out.println("Please press a number between 1 and 2");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+        System.out.println("---- Challange Manager ----");
+        System.out.println(" ");
+        System.out.println("You rolled 6");
+        System.out.println("Your sum is 13");
+        System.out.println("Do you want to roll the dice again?");
+        System.out.println("(1)Yes      (2)No ");
+        System.out.println("Please press a number between 1 and 2");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+        System.out.println("---- Challange Manager ----");
+        System.out.println(" ");
+        System.out.println("You rolled 3");
+        System.out.println("Your sum is 16");
+        System.out.println("Do you want to roll the dice again?");
+        System.out.println("(1)Yes      (2)No ");
+        System.out.println("Please press a number between 1 and 2");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+        System.out.println("---- Challange Manager ----");
+        System.out.println(" ");
+        System.out.println("You stopped rolling, it's now the managers turn");
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("He rolled 4");
+        System.out.println(" ");
+        System.out.println("He rolled 2");
+        System.out.println(" ");
+        System.out.println("He rolled 5");
+        System.out.println(" ");
+        System.out.println("He rolled 6");
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("The manager stopped rolling his sum is 15");
+        System.out.println("______________________________________________");
+        System.out.println("----------------- YOU WIN! -------------------");
+        System.out.println(" ");
+        System.out.println("Now you have a new artifact!");
+        System.out.println(" ");
+        System.out.println("                                 _       \n" + //
+                        "                                | |      \n" + //
+                        "  ___ ___  _ __   __ _ _ __ __ _| |_ ___ \n" + //
+                        " / __/ _ \\| '_ \\ / _` | '__/ _` | __/ __|\n" + //
+                        "| (_| (_) | | | | (_| | | | (_| | |_\\__ \\\n" + //
+                        " \\___\\___/|_| |_|\\__, |_|  \\__,_|\\__|___/\n" + //
+                        "                  __/ |                  \n" + //
+                        "                 |___/ ");
+        System.out.println(" ");
+        System.out.println("______________________________________________");
+
+
+        System.out.println("----The Manager defeted"+" Superhero.1(Name)"+"----");
+        System.out.println(" ");
+        System.out.println("     _       __           _   \n" + //
+                        "    | |     / _|         | |  \n" + //
+                        "  __| | ___| |_ ___  __ _| |_ \n" + //
+                        " / _` |/ _ \\  _/ _ \\/ _` | __|\n" + //
+                        "| (_| |  __/ ||  __/ (_| | |_ \n" + //
+                        " \\__,_|\\___|_| \\___|\\__,_|\\__|");
+        System.out.println(" ");                
+        System.out.println("Do you want to try again?");
+        System.out.println("(1)Yes"+"    "+"(2)No");                
+        System.out.println("______________________________________________");
+        System.out.println(" ");
 
         System.out.println("______________________________________________");
         System.out.println("______________________________________________");
@@ -395,13 +485,13 @@ public class entwurfSpiel {
         System.out.println(" ");
 
         System.out.println("______________________________________________");
-        System.out.println("---- The Big Boss ----");
+        System.out.println("---- Challenge The Big Boss ----");
         System.out.println("You start!");
         System.out.println("Plese choose a column between 1 and 8:");
 
 
         System.out.println("______________________________________________");
-        System.out.println("---- The Big Boss ----");
+        System.out.println("---- Challenge The Big Boss ----");
         System.out.println("You chose 'number'");
         System.out.println("| | | | | | | | \n"+
         "| | | | | | | | \n"+
@@ -427,7 +517,7 @@ public class entwurfSpiel {
 
 
         System.out.println("______________________________________________");
-        System.out.println("---- The Big Boss ----");
+        System.out.println("---- Challenge The Big Boss ----");
         System.out.println("You turn!");
         System.out.println("SPECIAL CHANCE");
         System.out.println("Plese choose a column between 1 and 8:");
