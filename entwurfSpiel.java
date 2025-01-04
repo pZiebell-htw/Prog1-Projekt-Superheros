@@ -110,7 +110,7 @@ public class entwurfSpiel {
         System.out.println("______________________________________________");
         System.out.println(" ");
 
-        System.out.println("Are you sure you want to delete"+"Superhero.1(Name)");
+        System.out.println("Are you sure you want to delete"+" Superhero.1(Name)");
         System.out.println("(1)Yes"+"    "+"(2)No");
         System.out.println("______________________________________________");
         System.out.println(" ");
@@ -142,7 +142,7 @@ public class entwurfSpiel {
         System.out.println(" ");
 
         System.out.println("---- Meet Enemy ----");
-        System.out.println("Superhero"+"Superheld.1(Name)"+"has been selected for the quest and will fight against" +"Employee");
+        System.out.println("Superhero"+" Superheld.1(Name)"+" has been selected for the quest and will fight against" +"Employee");
         System.out.println("Are you ready to fight?");
         System.out.println("(1)Yes      (2)No");
         System.out.println("______________________________________________");
@@ -193,7 +193,7 @@ public class entwurfSpiel {
         System.out.println("---- Fight Employee ----");
         System.out.println(" ");
         System.out.println(" ");
-        System.out.println("----The empployee defeted"+"Superhero.1(Name)"+"----");
+        System.out.println("----The empployee defeted"+" Superhero.1(Name)"+"----");
         System.out.println(" ");
         System.out.println("     _       __           _   \n" + //
                         "    | |     / _|         | |  \n" + //
@@ -257,7 +257,7 @@ public class entwurfSpiel {
         System.out.println("---- Fight Manager ----");
         System.out.println(" ");
         System.out.println(" ");
-        System.out.println("----The manager defeted"+"Superhero.1(Name)"+"----");
+        System.out.println("----The manager defeted"+" Superhero.1(Name)"+"----");
         System.out.println(" ");
         System.out.println("     _       __           _   \n" + //
                         "    | |     / _|         | |  \n" + //
@@ -271,7 +271,7 @@ public class entwurfSpiel {
 
         System.out.println(" ");
         System.out.println("---- Meet Enemy ----");
-        System.out.println("Superhero"+"Superheld.1(Name)"+"has been selected for the quest and will fight against" +"Admin");
+        System.out.println("Superhero"+" Superheld.1(Name)"+" has been selected for the quest and will fight against" +"Admin");
         System.out.println("Are you ready to fight?");
         System.out.println("(1)Yes      (2)No");
         System.out.println("______________________________________________");
@@ -321,7 +321,7 @@ public class entwurfSpiel {
         System.out.println("---- Fight Admin ----");
         System.out.println(" ");
         System.out.println(" ");
-        System.out.println("----The admin defeted"+"Superhero.1(Name)"+"----");
+        System.out.println("----The admin defeted"+" Superhero.1(Name)"+"----");
         System.out.println(" ");
         System.out.println("     _       __           _   \n" + //
                         "    | |     / _|         | |  \n" + //
@@ -383,7 +383,7 @@ public class entwurfSpiel {
         System.out.println("---- Fight BigBoss ----");
         System.out.println(" ");
         System.out.println(" ");
-        System.out.println("----The BigBoss defeted"+"Superhero.1(Name)"+"----");
+        System.out.println("----The BigBoss defeted"+" Superhero.1(Name)"+"----");
         System.out.println(" ");
         System.out.println("     _       __           _   \n" + //
                         "    | |     / _|         | |  \n" + //
@@ -420,19 +420,36 @@ public class entwurfSpiel {
         System.out.println("Plese choose a line between 1 and 8:");
 
 
-
         System.out.println("______________________________________________");
-        System.out.println("---- The Big Boss ----");
-        System.out.println("CONGRATULATIONS! YOU WIN!");
+        System.out.println("----------------- YOU WIN! -------------------");
+        System.out.println(" ");
         System.out.println("Now you have a new artifact!");
+        System.out.println(" ");
+        System.out.println("                                 _       \n" + //
+                        "                                | |      \n" + //
+                        "  ___ ___  _ __   __ _ _ __ __ _| |_ ___ \n" + //
+                        " / __/ _ \\| '_ \\ / _` | '__/ _` | __/ __|\n" + //
+                        "| (_| (_) | | | | (_| | | | (_| | |_\\__ \\\n" + //
+                        " \\___\\___/|_| |_|\\__, |_|  \\__,_|\\__|___/\n" + //
+                        "                  __/ |                  \n" + //
+                        "                 |___/ ");
+        System.out.println(" ");
         System.out.println("______________________________________________");
 
-        System.out.println("______________________________________________");
-        System.out.println("---- The Big Boss ----");
-        System.out.println("YOU LOSE! :(");
+
+        System.out.println("----The BigBoss defeted"+" Superhero.1(Name)"+"----");
+        System.out.println(" ");
+        System.out.println("     _       __           _   \n" + //
+                        "    | |     / _|         | |  \n" + //
+                        "  __| | ___| |_ ___  __ _| |_ \n" + //
+                        " / _` |/ _ \\  _/ _ \\/ _` | __|\n" + //
+                        "| (_| |  __/ ||  __/ (_| | |_ \n" + //
+                        " \\__,_|\\___|_| \\___|\\__,_|\\__|");
+        System.out.println(" ");                
         System.out.println("Do you want to try again?");
-        System.out.println("(1)Yes"+"    "+"(2)No");
+        System.out.println("(1)Yes"+"    "+"(2)No");                
         System.out.println("______________________________________________");
+        System.out.println(" ");
 
         System.out.println("---- Dance ----");
         System.out.println(" ");
