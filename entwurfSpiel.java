@@ -7,6 +7,7 @@ public class entwurfSpiel {
         System.out.println("______________________________________________");
         System.out.println("");
         System.out.println("Superheroes vs. IT-Giant 1.0");
+        System.out.println();
         System.out.println(" ");
         System.out.println(" ");
         System.out.println("(1)     Create Superhero");
