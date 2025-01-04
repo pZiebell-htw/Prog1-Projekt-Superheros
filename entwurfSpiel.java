@@ -146,12 +146,62 @@ public class entwurfSpiel {
         System.out.println("Are you ready to fight?");
         System.out.println("(1)Yes      (2)No");
         System.out.println("______________________________________________");
+        System.out.println(" ");
 
         System.out.println("---- Employee ----");
         System.out.println(" ");
         System.out.println("What do you want to do?");
         System.out.println("(1)     Fight");
         System.out.println("Press 1 to fight the employee");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+
+        System.out.println("---- Fight Employee ----");
+        System.out.println(" ");
+        System.out.println("The employee has attacked you and missed you ");
+        System.out.println("Superhero.1(Name) has attacked the employee and missed him ");
+        System.out.println("The employee has attacked you and deld 1 damage ");
+        System.out.println("Superhero.1(Name) has attacked the employee and deld 1 damage ");
+        System.out.println("The employee has attacked you and deld 2 damage");
+        System.out.println("Superhero.1(Name) has attacked the employee and deld 2 damage ");
+        System.out.println("The employee has attacked you and deld 3 damage");
+        System.out.println("Superhero.1(Name) has attacked the employee and deld 3 damage ");
+        System.out.println("The employee has attacked you and deld 4 damage");
+        System.out.println("Superhero.1(Name) has attacked the employee and deld 4 damage ");
+        System.out.println(" ");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+
+        System.out.println("---- Fight Employee ----");
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("----You sucessfully killed the employee----");
+        System.out.println(" ");
+        System.out.println("                                 _       \n" + //
+                        "                                | |      \n" + //
+                        "  ___ ___  _ __   __ _ _ __ __ _| |_ ___ \n" + //
+                        " / __/ _ \\| '_ \\ / _` | '__/ _` | __/ __|\n" + //
+                        "| (_| (_) | | | | (_| | | | (_| | |_\\__ \\\n" + //
+                        " \\___\\___/|_| |_|\\__, |_|  \\__,_|\\__|___/\n" + //
+                        "                  __/ |                  \n" + //
+                        "                 |___/ ");
+        System.out.println(" ");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+
+
+        System.out.println("---- Fight Employee ----");
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("----The empployee defeted"+"Superhero.1(Name)"+"----");
+        System.out.println(" ");
+        System.out.println("     _       __           _   \n" + //
+                        "    | |     / _|         | |  \n" + //
+                        "  __| | ___| |_ ___  __ _| |_ \n" + //
+                        " / _` |/ _ \\  _/ _ \\/ _` | __|\n" + //
+                        "| (_| |  __/ ||  __/ (_| | |_ \n" + //
+                        " \\__,_|\\___|_| \\___|\\__,_|\\__|");
+
         System.out.println("______________________________________________");
         System.out.println("______________________________________________");
 
@@ -161,6 +211,7 @@ public class entwurfSpiel {
         System.out.println("Are you ready to fight?");
         System.out.println("(1)Yes      (2)No");
         System.out.println("______________________________________________");
+        System.out.println(" ");
 
         System.out.println("---- Manager ----");
         System.out.println(" ");
@@ -168,6 +219,53 @@ public class entwurfSpiel {
         System.out.println("(1)     Fight");
         System.out.println("(2)     Challange Enemy");
         System.out.println("Please pick a number between 1 and 2");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+
+        System.out.println("---- Fight Manager ----");
+        System.out.println(" ");
+        System.out.println("The manager has attacked you and missed you ");
+        System.out.println("Superhero.1(Name) has attacked the manager and missed him ");
+        System.out.println("The manager has attacked you and deld 1 damage ");
+        System.out.println("Superhero.1(Name) has attacked the manager and deld 1 damage ");
+        System.out.println("The manager has attacked you and deld 2 damage");
+        System.out.println("Superhero.1(Name) has attacked the manager and deld 2 damage ");
+        System.out.println("The manager has attacked you and deld 3 damage");
+        System.out.println("Superhero.1(Name) has attacked the manager and deld 3 damage ");
+        System.out.println("The manager has attacked you and deld 4 damage");
+        System.out.println("Superhero.1(Name) has attacked the manager and deld 4 damage ");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+
+        System.out.println("---- Fight Manager ----");
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("----You sucessfully killed the manager----");
+        System.out.println(" ");
+        System.out.println("                                 _       \n" + //
+                        "                                | |      \n" + //
+                        "  ___ ___  _ __   __ _ _ __ __ _| |_ ___ \n" + //
+                        " / __/ _ \\| '_ \\ / _` | '__/ _` | __/ __|\n" + //
+                        "| (_| (_) | | | | (_| | | | (_| | |_\\__ \\\n" + //
+                        " \\___\\___/|_| |_|\\__, |_|  \\__,_|\\__|___/\n" + //
+                        "                  __/ |                  \n" + //
+                        "                 |___/ ");
+        System.out.println(" ");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+
+        System.out.println("---- Fight Manager ----");
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("----The manager defeted"+"Superhero.1(Name)"+"----");
+        System.out.println(" ");
+        System.out.println("     _       __           _   \n" + //
+                        "    | |     / _|         | |  \n" + //
+                        "  __| | ___| |_ ___  __ _| |_ \n" + //
+                        " / _` |/ _ \\  _/ _ \\/ _` | __|\n" + //
+                        "| (_| |  __/ ||  __/ (_| | |_ \n" + //
+                        " \\__,_|\\___|_| \\___|\\__,_|\\__|");
+
         System.out.println("______________________________________________");
         System.out.println("______________________________________________");
 
@@ -177,6 +275,7 @@ public class entwurfSpiel {
         System.out.println("Are you ready to fight?");
         System.out.println("(1)Yes      (2)No");
         System.out.println("______________________________________________");
+        System.out.println(" ");
 
         System.out.println("---- Admin ----");
         System.out.println(" ");
@@ -184,6 +283,52 @@ public class entwurfSpiel {
         System.out.println("(1)     Fight");
         System.out.println("(2)     Challange Enemy");
         System.out.println("Please pick a number between 1 and 2");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+
+        System.out.println("---- Fight Admin ----");
+        System.out.println(" ");
+        System.out.println("The admin has attacked you and missed you ");
+        System.out.println("Superhero.1(Name) has attacked the admin and missed him ");
+        System.out.println("The admin has attacked you and deld 1 damage ");
+        System.out.println("Superhero.1(Name) has attacked the admin and deld 1 damage ");
+        System.out.println("The admin has attacked you and deld 2 damage");
+        System.out.println("Superhero.1(Name) has attacked the admin and deld 2 damage ");
+        System.out.println("The admin has attacked you and deld 3 damage");
+        System.out.println("Superhero.1(Name) has attacked the admin and deld 3 damage ");
+        System.out.println("The admin has attacked you and deld 4 damage");
+        System.out.println("Superhero.1(Name) has attacked the admin and deld 4 damage ");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+
+        System.out.println("---- Fight Admin ----");
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("----You sucessfully killed the admin----");
+        System.out.println(" ");
+        System.out.println("                                 _       \n" + //
+                        "                                | |      \n" + //
+                        "  ___ ___  _ __   __ _ _ __ __ _| |_ ___ \n" + //
+                        " / __/ _ \\| '_ \\ / _` | '__/ _` | __/ __|\n" + //
+                        "| (_| (_) | | | | (_| | | | (_| | |_\\__ \\\n" + //
+                        " \\___\\___/|_| |_|\\__, |_|  \\__,_|\\__|___/\n" + //
+                        "                  __/ |                  \n" + //
+                        "                 |___/ ");
+        System.out.println(" ");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+
+        System.out.println("---- Fight Admin ----");
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("----The admin defeted"+"Superhero.1(Name)"+"----");
+        System.out.println(" ");
+        System.out.println("     _       __           _   \n" + //
+                        "    | |     / _|         | |  \n" + //
+                        "  __| | ___| |_ ___  __ _| |_ \n" + //
+                        " / _` |/ _ \\  _/ _ \\/ _` | __|\n" + //
+                        "| (_| |  __/ ||  __/ (_| | |_ \n" + //
+                        " \\__,_|\\___|_| \\___|\\__,_|\\__|");
         System.out.println("______________________________________________");
         System.out.println("______________________________________________");
 
@@ -193,6 +338,7 @@ public class entwurfSpiel {
         System.out.println("Are you ready to fight?");
         System.out.println("(1)Yes      (2)No");
         System.out.println("______________________________________________");
+        System.out.println(" ");
 
         System.out.println("---- BigBoss ----");
         System.out.println(" ");
@@ -200,6 +346,51 @@ public class entwurfSpiel {
         System.out.println("(1)     Fight");
         System.out.println("(2)     Challange Enemy");
         System.out.println("Please pick a number between 1 and 2");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+
+        System.out.println("---- Fight BigBoss ----");
+        System.out.println(" ");
+        System.out.println("The BigBoss has attacked you and missed you ");
+        System.out.println("Superhero.1(Name) has attacked the BigBoss and missed him ");
+        System.out.println("The BigBoss has attacked you and deld 1 damage ");
+        System.out.println("Superhero.1(Name) has attacked the BigBoss and deld 1 damage ");
+        System.out.println("The BigBoss has attacked you and deld 2 damage");
+        System.out.println("Superhero.1(Name) has attacked the BigBoss and deld 2 damage ");
+        System.out.println("The BigBoss has attacked you and deld 3 damage");
+        System.out.println("Superhero.1(Name) has attacked the BigBoss and deld 3 damage ");
+        System.out.println("The BigBoss has attacked you and deld 4 damage");
+        System.out.println("Superhero.1(Name) has attacked the BigBoss and deld 4 damage ");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+        System.out.println("---- Fight BigBoss ----");
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("----You sucessfully killed the BigBOss----");
+        System.out.println(" ");
+        System.out.println("                                 _       \n" + //
+                        "                                | |      \n" + //
+                        "  ___ ___  _ __   __ _ _ __ __ _| |_ ___ \n" + //
+                        " / __/ _ \\| '_ \\ / _` | '__/ _` | __/ __|\n" + //
+                        "| (_| (_) | | | | (_| | | | (_| | |_\\__ \\\n" + //
+                        " \\___\\___/|_| |_|\\__, |_|  \\__,_|\\__|___/\n" + //
+                        "                  __/ |                  \n" + //
+                        "                 |___/ ");
+        System.out.println(" ");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+
+        System.out.println("---- Fight BigBoss ----");
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("----The BigBoss defeted"+"Superhero.1(Name)"+"----");
+        System.out.println(" ");
+        System.out.println("     _       __           _   \n" + //
+                        "    | |     / _|         | |  \n" + //
+                        "  __| | ___| |_ ___  __ _| |_ \n" + //
+                        " / _` |/ _ \\  _/ _ \\/ _` | __|\n" + //
+                        "| (_| |  __/ ||  __/ (_| | |_ \n" + //
+                        " \\__,_|\\___|_| \\___|\\__,_|\\__|");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
