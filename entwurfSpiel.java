@@ -2,12 +2,13 @@
 
 
 
+
+
 public class entwurfSpiel {
     public static void main(String[] args) {
         System.out.println("______________________________________________");
         System.out.println("");
         System.out.println("Superheroes vs. IT-Giant 1.0");
-        System.out.println();
         System.out.println(" ");
         System.out.println(" ");
         System.out.println("(1)     Create Superhero");
@@ -139,7 +140,57 @@ public class entwurfSpiel {
         System.out.println("Please pick a number between 1 and 3");
         System.out.println("______________________________________________");
         System.out.println(" ");
-        
+
+        System.out.println("---- Meet Enemy ----");
+        System.out.println("Superhero"+"Superheld.1(Name)"+"has been selected for the quest and will fight against" +"Employee");
+        System.out.println("Are you ready to fight?");
+        System.out.println("(1)Yes      (2)No");
+        System.out.println("______________________________________________");
+
+        System.out.println("---- Employee ----");
+        System.out.println(" ");
+        System.out.println("What do you want to do?");
+        System.out.println("(1)     Fight");
+        System.out.println("(2)     Challange Enemy");
+        System.out.println("Please pick a number between 1 and 2");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+        System.out.println("---- Meet Enemy ----");
+        System.out.println("Superhero"+"Superheld.1(Name)"+"has been selected for the quest and will fight against" +"Manager");
+        System.out.println("Are you ready to fight?");
+        System.out.println("(1)Yes      (2)No");
+        System.out.println("______________________________________________");
+
+        System.out.println("---- Manager ----");
+        System.out.println(" ");
+        System.out.println("What do you want to do?");
+        System.out.println("(1)     Fight");
+        System.out.println("(2)     Challange Enemy");
+        System.out.println("Please pick a number between 1 and 2");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+        System.out.println("---- Meet Enemy ----");
+        System.out.println("Superhero"+"Superheld.1(Name)"+"has been selected for the quest and will fight against" +"Admin");
+        System.out.println("Are you ready to fight?");
+        System.out.println("(1)Yes      (2)No");
+        System.out.println("______________________________________________");
+
+        System.out.println("---- Admin ----");
+        System.out.println(" ");
+        System.out.println("What do you want to do?");
+        System.out.println("(1)     Fight");
+        System.out.println("(2)     Challange Enemy");
+        System.out.println("Please pick a number between 1 and 2");
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+        System.out.println("---- Meet Enemy ----");
+        System.out.println("Superhero"+"Superheld.1(Name)"+"has been selected for the quest and will fight against" +"BigBoss");
+        System.out.println("Are you ready to fight?");
+        System.out.println("(1)Yes      (2)No");
+        System.out.println("______________________________________________");
+
+        System.out.println("---- BigBoss ----");
+        System.out.println(" ");
         System.out.println("What do you want to do?");
         System.out.println("(1)     Fight");
         System.out.println("(2)     Challange Enemy");
