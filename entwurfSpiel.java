@@ -631,7 +631,7 @@ public class entwurfSpiel {
         System.out.println(" ");
 
         System.out.println(" ");
-        System.out.println("Superhero.1(Name)"+" has started dancing");
+        System.out.println("Superhero.1(Name)"+"has started dancing");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
