@@ -151,9 +151,10 @@ public class entwurfSpiel {
         System.out.println(" ");
         System.out.println("What do you want to do?");
         System.out.println("(1)     Fight");
-        System.out.println("(2)     Challange Enemy");
-        System.out.println("Please pick a number between 1 and 2");
+        System.out.println("Press 1 to fight the employee");
         System.out.println("______________________________________________");
+        System.out.println("______________________________________________");
+
         System.out.println(" ");
         System.out.println("---- Meet Enemy ----");
         System.out.println("Superhero"+"Superheld.1(Name)"+"has been selected for the quest and will fight against" +"Manager");
@@ -168,6 +169,8 @@ public class entwurfSpiel {
         System.out.println("(2)     Challange Enemy");
         System.out.println("Please pick a number between 1 and 2");
         System.out.println("______________________________________________");
+        System.out.println("______________________________________________");
+
         System.out.println(" ");
         System.out.println("---- Meet Enemy ----");
         System.out.println("Superhero"+"Superheld.1(Name)"+"has been selected for the quest and will fight against" +"Admin");
@@ -182,6 +185,8 @@ public class entwurfSpiel {
         System.out.println("(2)     Challange Enemy");
         System.out.println("Please pick a number between 1 and 2");
         System.out.println("______________________________________________");
+        System.out.println("______________________________________________");
+
         System.out.println(" ");
         System.out.println("---- Meet Enemy ----");
         System.out.println("Superhero"+"Superheld.1(Name)"+"has been selected for the quest and will fight against" +"BigBoss");
