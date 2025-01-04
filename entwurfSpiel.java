@@ -193,7 +193,7 @@ public class entwurfSpiel {
         System.out.println("---- Fight Employee ----");
         System.out.println(" ");
         System.out.println(" ");
-        System.out.println("----The empployee defeted"+" Superhero.1(Name)"+"----");
+        System.out.println("----The employee defeted"+" Superhero.1(Name)"+"----");
         System.out.println(" ");
         System.out.println("     _       __           _   \n" + //
                         "    | |     / _|         | |  \n" + //
@@ -207,7 +207,7 @@ public class entwurfSpiel {
 
         System.out.println(" ");
         System.out.println("---- Meet Enemy ----");
-        System.out.println("Superhero"+"Superheld.1(Name)"+"has been selected for the quest and will fight against" +"Manager");
+        System.out.println("Superhero"+" Superheld.1(Name)"+" has been selected for the quest and will fight against" +"Manager");
         System.out.println("Are you ready to fight?");
         System.out.println("(1)Yes      (2)No");
         System.out.println("______________________________________________");
@@ -631,7 +631,7 @@ public class entwurfSpiel {
         System.out.println(" ");
 
         System.out.println(" ");
-        System.out.println("Superhero.1(Name)"+"has started dancing");
+        System.out.println("Superhero.1(Name)"+" has started dancing");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
