@@ -1,9 +1,4 @@
 
-
-
-
-
-
 public class entwurfSpiel {
     public static void main(String[] args) {
         System.out.println("______________________________________________");
@@ -38,6 +33,7 @@ public class entwurfSpiel {
         //Enter
         System.out.println(" ");
         System.out.println("------ Your Superhero is created! ------");
+        System.out.println(" ");    
         System.out.println("             .  .\n" + //
                         "             |\\_|\\\n" + //
                         "             | a_a\\\n" + //
@@ -60,6 +56,8 @@ public class entwurfSpiel {
                         "     \\ \\| | /   | |__\n" + //
                         "          / |   |____)\n" + //
                         "          |_/");
+        System.out.println(" ");
+        System.out.println("To go back to main menu press Enter");                
         System.out.println("______________________________________________");
         System.out.println("______________________________________________");
         System.out.println(" ");
@@ -71,7 +69,9 @@ public class entwurfSpiel {
         System.out.println("(2)     Superheld.2(Name)");
         System.out.println("(3)     Superheld.3(Name)");
         System.out.println(" ");
-        System.out.println("Please pick a number between 1 and 3");
+        System.out.println("Please pick a number between 1 and 3:");
+        System.out.println(" ");
+        System.out.println("To go back to main menu press Enter");
 
         System.out.println("______________________________________________");
         System.out.println(" ");
@@ -86,6 +86,8 @@ public class entwurfSpiel {
         System.out.println("readyToFight:           ...");
         System.out.println("inFight:                ...");
         System.out.println("alive:                  ...");
+        System.out.println(" ");
+        System.out.println("To go back to main menu press Enter");
         System.out.println("______________________________________________");
         System.out.println("______________________________________________");
         System.out.println(" ");
@@ -95,6 +97,8 @@ public class entwurfSpiel {
         System.out.println("Superheld.1(Name)");
         System.out.println("Superheld.2(Name)");
         System.out.println("Superheld.3(Name)");
+        System.out.println(" ");
+        System.out.println("To go back to main menu press Enter");
         System.out.println("______________________________________________");
         System.out.println("______________________________________________");
         System.out.println(" ");
@@ -107,15 +111,21 @@ public class entwurfSpiel {
         System.out.println("(3)     Superheld.3(Name)");
         System.out.println(" ");
         System.out.println("Please pick a number between 1 and 3");
+        System.out.println(" ");
+        System.out.println("To go back to main menu press Enter");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
         System.out.println("Are you sure you want to delete"+" Superhero.1(Name)");
         System.out.println("(1)Yes"+"    "+"(2)No");
+        System.out.println(" ");
+        System.out.println("Please press a number between 1 and 2: ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
         System.out.println("------"+ "Superhero.1(Name)"+ "is deleted! ------");
+        System.out.println("");
+        System.out.println("To go back to main menu press Enter");
         System.out.println("");
         System.out.println("______________________________________________");
         System.out.println("______________________________________________");
@@ -137,14 +147,21 @@ public class entwurfSpiel {
         System.out.println("(1)     Superheld.1(Name)");
         System.out.println("(2)     Superheld.2(Name)");
         System.out.println("(3)     Superheld.3(Name)");
+        System.out.println(" ");
         System.out.println("Please pick a number between 1 and 3");
+        System.out.println(" ");
+        System.out.println("To go back to raid menu press Enter");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
         System.out.println("---- Meet Enemy ----");
-        System.out.println("Superhero"+" Superheld.1(Name)"+" has been selected for the quest and will fight against" +"Employee");
+        System.out.println(" ");
+        System.out.println("Superhero"+" Superheld.1(Name)"+" has been selected for the quest and will fight against" +" Employee");
         System.out.println("Are you ready to fight?");
+        System.out.println(" ");    
         System.out.println("(1)Yes      (2)No");
+        System.out.println(" ");
+        System.out.println("Please press a number between 1 and 2: ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -152,6 +169,7 @@ public class entwurfSpiel {
         System.out.println(" ");
         System.out.println("What do you want to do?");
         System.out.println("(1)     Fight");
+        System.out.println(" ");
         System.out.println("Press 1 to fight the employee");
         System.out.println("______________________________________________");
         System.out.println(" ");
@@ -186,6 +204,8 @@ public class entwurfSpiel {
                         "                  __/ |                  \n" + //
                         "                 |___/ ");
         System.out.println(" ");
+        System.out.println("Please press Enter to continue ");
+        System.out.println(" ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -201,15 +221,24 @@ public class entwurfSpiel {
                         " / _` |/ _ \\  _/ _ \\/ _` | __|\n" + //
                         "| (_| |  __/ ||  __/ (_| | |_ \n" + //
                         " \\__,_|\\___|_| \\___|\\__,_|\\__|");
-
+        System.out.println(" ");                
+        System.out.println("Do you want to try again?");
+        System.out.println("(1)Yes"+"    "+"(2)No");
+        System.out.println(" ");
+        System.out.println("Please press a number between 1 and 2: ");
+        System.out.println(" ");   
         System.out.println("______________________________________________");
         System.out.println("______________________________________________");
 
         System.out.println(" ");
         System.out.println("---- Meet Enemy ----");
-        System.out.println("Superhero"+" Superheld.1(Name)"+" has been selected for the quest and will fight against" +"Manager");
+        System.out.println(" ");
+        System.out.println("Superhero"+" Superheld.1(Name)"+" has been selected for the quest and will fight against" +" Manager");
         System.out.println("Are you ready to fight?");
+        System.out.println(" ");    
         System.out.println("(1)Yes      (2)No");
+        System.out.println(" ");
+        System.out.println("Please press a number between 1 and 2: ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -218,6 +247,7 @@ public class entwurfSpiel {
         System.out.println("What do you want to do?");
         System.out.println("(1)     Fight");
         System.out.println("(2)     Challange Enemy");
+        System.out.println(" ");
         System.out.println("Please pick a number between 1 and 2");
         System.out.println("______________________________________________");
         System.out.println(" ");
@@ -234,6 +264,7 @@ public class entwurfSpiel {
         System.out.println("Superhero.1(Name) has attacked the manager and deld 3 damage ");
         System.out.println("The manager has attacked you and deld 4 damage");
         System.out.println("Superhero.1(Name) has attacked the manager and deld 4 damage ");
+        System.out.println(" ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -251,6 +282,8 @@ public class entwurfSpiel {
                         "                  __/ |                  \n" + //
                         "                 |___/ ");
         System.out.println(" ");
+        System.out.println("Please press Enter to continue ");
+        System.out.println(" ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -265,6 +298,11 @@ public class entwurfSpiel {
                         " / _` |/ _ \\  _/ _ \\/ _` | __|\n" + //
                         "| (_| |  __/ ||  __/ (_| | |_ \n" + //
                         " \\__,_|\\___|_| \\___|\\__,_|\\__|");
+        System.out.println(" ");                
+        System.out.println("Do you want to try again?");
+        System.out.println("(1)Yes"+"    "+"(2)No");
+        System.out.println(" ");
+        System.out.println("Please press a number between 1 and 2: ");
         System.out.println("______________________________________________");
         System.out.println(" ");
         System.out.println("---- Challange Manager ----");
@@ -280,6 +318,7 @@ public class entwurfSpiel {
         System.out.println("Your sum is 1");
         System.out.println("Do you want to roll the dice again?");
         System.out.println("(1)Yes      (2)No ");
+        System.out.println(" ");
         System.out.println("Please press a number between 1 and 2");
         System.out.println("______________________________________________");
         System.out.println(" ");
@@ -289,6 +328,7 @@ public class entwurfSpiel {
         System.out.println("Your sum is 7");
         System.out.println("Do you want to roll the dice again?");
         System.out.println("(1)Yes      (2)No ");
+        System.out.println(" ");
         System.out.println("Please press a number between 1 and 2");
         System.out.println("______________________________________________");
         System.out.println(" ");
@@ -298,6 +338,7 @@ public class entwurfSpiel {
         System.out.println("Your sum is 13");
         System.out.println("Do you want to roll the dice again?");
         System.out.println("(1)Yes      (2)No ");
+        System.out.println(" ");
         System.out.println("Please press a number between 1 and 2");
         System.out.println("______________________________________________");
         System.out.println(" ");
@@ -307,6 +348,7 @@ public class entwurfSpiel {
         System.out.println("Your sum is 16");
         System.out.println("Do you want to roll the dice again?");
         System.out.println("(1)Yes      (2)No ");
+        System.out.println(" ");
         System.out.println("Please press a number between 1 and 2");
         System.out.println("______________________________________________");
         System.out.println(" ");
@@ -326,6 +368,7 @@ public class entwurfSpiel {
         System.out.println(" ");
         System.out.println("The manager stopped rolling his sum is 15");
         System.out.println("______________________________________________");
+        System.out.println(" ");
         System.out.println("----------------- YOU WIN! -------------------");
         System.out.println(" ");
         System.out.println("Now you have a new artifact!");
@@ -339,7 +382,10 @@ public class entwurfSpiel {
                         "                  __/ |                  \n" + //
                         "                 |___/ ");
         System.out.println(" ");
+        System.out.println("Please press Enter to continue ");
+        System.out.println(" ");
         System.out.println("______________________________________________");
+        System.out.println(" ");
 
 
         System.out.println("----The Manager defeted"+" Superhero.1(Name)"+"----");
@@ -352,7 +398,9 @@ public class entwurfSpiel {
                         " \\__,_|\\___|_| \\___|\\__,_|\\__|");
         System.out.println(" ");                
         System.out.println("Do you want to try again?");
-        System.out.println("(1)Yes"+"    "+"(2)No");                
+        System.out.println("(1)Yes"+"    "+"(2)No");  
+        System.out.println(" ");    
+        System.out.println("Please press a number between 1 and 2: ");              
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -361,9 +409,13 @@ public class entwurfSpiel {
 
         System.out.println(" ");
         System.out.println("---- Meet Enemy ----");
-        System.out.println("Superhero"+" Superheld.1(Name)"+" has been selected for the quest and will fight against" +"Admin");
+        System.out.println(" ");    
+        System.out.println("Superhero"+" Superheld.1(Name)"+" has been selected for the quest and will fight against" +" Admin");
         System.out.println("Are you ready to fight?");
+        System.out.println(" ");    
         System.out.println("(1)Yes      (2)No");
+        System.out.println(" ");
+        System.out.println("Please press a number between 1 and 2: ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -372,6 +424,7 @@ public class entwurfSpiel {
         System.out.println("What do you want to do?");
         System.out.println("(1)     Fight");
         System.out.println("(2)     Challange Enemy");
+        System.out.println(" ");
         System.out.println("Please pick a number between 1 and 2");
         System.out.println("______________________________________________");
         System.out.println(" ");
@@ -388,6 +441,7 @@ public class entwurfSpiel {
         System.out.println("Superhero.1(Name) has attacked the admin and deld 3 damage ");
         System.out.println("The admin has attacked you and deld 4 damage");
         System.out.println("Superhero.1(Name) has attacked the admin and deld 4 damage ");
+        System.out.println(" ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -405,6 +459,8 @@ public class entwurfSpiel {
                         "                  __/ |                  \n" + //
                         "                 |___/ ");
         System.out.println(" ");
+        System.out.println("Please press Enter to continue ");
+        System.out.println(" ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -419,38 +475,65 @@ public class entwurfSpiel {
                         " / _` |/ _ \\  _/ _ \\/ _` | __|\n" + //
                         "| (_| |  __/ ||  __/ (_| | |_ \n" + //
                         " \\__,_|\\___|_| \\___|\\__,_|\\__|");
+        System.out.println(" ");                
+        System.out.println("Do you want to try again?");
+        System.out.println("(1)Yes"+"    "+"(2)No");
+        System.out.println(" ");
+        System.out.println("Please press a number between 1 and 2: ");
         System.out.println("______________________________________________");
         System.out.println("______________________________________________");
 
         System.out.println("______________________________________________");
-        System.out.println("---- Admin ----");
+        System.out.println(" ");
+        System.out.println("---- Challange Admin ----");
+        System.out.println(" ");
+        System.out.println("(1) Guess the number");
+        System.out.println(" ");
+        System.out.println("Please press 1");
+        System.out.println("______________________________________________");
+
+        System.out.println("______________________________________________");
+        System.out.println(" ");
+        System.out.println("---- Challenge Admin ----");
+        System.out.println(" ");    
         System.out.println("You have "+" 3 "+ "attempts");
+        System.out.println(" ");
         System.out.println("Please choose a number between 1 and 10:");
         System.out.println("______________________________________________");
 
         System.out.println("______________________________________________");
-        System.out.println("---- Admin ----");
+        System.out.println(" ");
+        System.out.println("---- Challenge Admin ----");
+        System.out.println(" ");    
         System.out.println("The number is bigger!");
         System.out.println("You have "+" 2 "+ "attempts");
+        System.out.println(" ");
         System.out.println("Please choose a number between 1 and 10:");
         System.out.println("______________________________________________");
 
         System.out.println("______________________________________________");
-        System.out.println("---- Admin ----");
+        System.out.println(" ");
+        System.out.println("---- Challenge Admin ----");
+        System.out.println(" ");    
         System.out.println("The number is smaller!");
         System.out.println("You have "+" 2 "+ "attempts");
+        System.out.println(" ");
         System.out.println("Please choose a number between 1 and 10:");
         System.out.println("______________________________________________");
 
         System.out.println("______________________________________________");
-        System.out.println("---- Admin ----");
+        System.out.println(" ");
+        System.out.println("---- Challenge Admin ----");
+        System.out.println(" ");    
         System.out.println("The number is smaller!");
         System.out.println("You have "+" 1 "+ "attempts");
+        System.out.println(" ");
         System.out.println("Please choose a number between 1 and 10:");
         System.out.println("______________________________________________");
 
 
         System.out.println("______________________________________________");
+        System.out.println(" ");
         System.out.println("----------- YOU GUESSED THE NUMBER! -----------");
         System.out.println(" ");
         System.out.println("Now you have a new artifact!");
@@ -464,7 +547,10 @@ public class entwurfSpiel {
                         "                  __/ |                  \n" + //
                         "                 |___/ ");
         System.out.println(" ");
+        System.out.println("Please press Enter to continue ");
+        System.out.println(" ");
         System.out.println("______________________________________________");
+        System.out.println(" ");
 
         System.out.println("---- Admin defeted"+" Superhero.1(Name)"+"----");
         System.out.println(" ");
@@ -476,14 +562,20 @@ public class entwurfSpiel {
                         " \\__,_|\\___|_| \\___|\\__,_|\\__|");
         System.out.println(" ");                
         System.out.println("Do you want to try again?");
-        System.out.println("(1)Yes"+"    "+"(2)No");                
+        System.out.println("(1)Yes"+"    "+"(2)No");
+        System.out.println(" ");
+        System.out.println("Please press a number between 1 and 2: ");                
         System.out.println("______________________________________________");
 
         System.out.println(" ");
         System.out.println("---- Meet Enemy ----");
-        System.out.println("Superhero"+"Superheld.1(Name)"+"has been selected for the quest and will fight against" +"BigBoss");
+        System.out.println(" ");
+        System.out.println("Superhero"+"Superheld.1(Name)"+"has been selected for the quest and will fight against" +" BigBoss");
         System.out.println("Are you ready to fight?");
+        System.out.println(" ");    
         System.out.println("(1)Yes      (2)No");
+        System.out.println(" ");
+        System.out.println("Please press a number between 1 and 2: ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -492,6 +584,7 @@ public class entwurfSpiel {
         System.out.println("What do you want to do?");
         System.out.println("(1)     Fight");
         System.out.println("(2)     Challange Enemy");
+        System.out.println(" ");
         System.out.println("Please pick a number between 1 and 2");
         System.out.println("______________________________________________");
         System.out.println(" ");
@@ -508,6 +601,7 @@ public class entwurfSpiel {
         System.out.println("Superhero.1(Name) has attacked the BigBoss and deld 3 damage ");
         System.out.println("The BigBoss has attacked you and deld 4 damage");
         System.out.println("Superhero.1(Name) has attacked the BigBoss and deld 4 damage ");
+        System.out.println(" ");
         System.out.println("______________________________________________");
         System.out.println(" ");
         System.out.println("---- Fight BigBoss ----");
@@ -524,6 +618,8 @@ public class entwurfSpiel {
                         "                  __/ |                  \n" + //
                         "                 |___/ ");
         System.out.println(" ");
+        System.out.println("Please press Enter to continue ");
+        System.out.println(" ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -538,18 +634,38 @@ public class entwurfSpiel {
                         " / _` |/ _ \\  _/ _ \\/ _` | __|\n" + //
                         "| (_| |  __/ ||  __/ (_| | |_ \n" + //
                         " \\__,_|\\___|_| \\___|\\__,_|\\__|");
+        System.out.println(" ");                
+        System.out.println("Do you want to try again?");
+        System.out.println("(1)Yes"+"    "+"(2)No");
+        System.out.println(" ");
+        System.out.println("Please press a number between 1 and 2: ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
         System.out.println("______________________________________________");
+        System.out.println(" ");
+        System.out.println("---- Challange The Big Bos ----");
+        System.out.println(" ");
+        System.out.println("(1) Five in a Row");
+        System.out.println(" ");
+        System.out.println("Please press 1");
+        System.out.println("______________________________________________");
+
+        System.out.println("______________________________________________");
+        System.out.println(" ");
         System.out.println("---- Challenge The Big Boss ----");
+        System.out.println(" ");
         System.out.println("You start!");
+        System.out.println(" ");
         System.out.println("Plese choose a column between 1 and 8:");
 
 
         System.out.println("______________________________________________");
+        System.out.println(" ");
         System.out.println("---- Challenge The Big Boss ----");
+        System.out.println(" ");
         System.out.println("You chose 'number'");
+        System.out.println(" ");
         System.out.println("| | | | | | | | \n"+
         "| | | | | | | | \n"+
         "| | | | | | | | \n"+
@@ -558,7 +674,7 @@ public class entwurfSpiel {
         "| | | |x| | | | \n"+
         "---------------");
         System.out.println("Now it is the enemy's turn!");
-        System.out.println("To continue please press 1:");
+        System.out.println(" ");
         System.out.println("| | | | | | | | \n"+
         "| | | | | | | | \n"+
         "| | | | | | | | \n"+
@@ -566,19 +682,28 @@ public class entwurfSpiel {
         "| | | | | | | | \n"+
         "| | | |x|o| | | \n"+
         "---------------");
+        System.out.println(" ");
+        System.out.println("To continue please press Enter:");
 
         System.out.println("______________________________________________");
+        System.out.println(" ");
         System.out.println("---- The Big Boss ----");
+        System.out.println(" ");
         System.out.println("You turn!");
+        System.out.println(" ");
         System.out.println("Plese choose a column between 1 and 8:");
 
-
         System.out.println("______________________________________________");
+        System.out.println(" ");
         System.out.println("---- Challenge The Big Boss ----");
+        System.out.println(" ");
         System.out.println("You turn!");
-        System.out.println("SPECIAL CHANCE");
+        System.out.println(" ");
+        System.out.println("---- SPECIAL CHANCE ----");
+        System.out.println(" ");
         System.out.println("Plese choose a column between 1 and 8:");
         System.out.println("Plese choose a line between 1 and 8:");
+        System.out.println(" ");
         System.out.println("| | | | | | | | \n"+
         "| | | | | | | | \n"+
         "| | | | | | | | \n"+
@@ -586,9 +711,12 @@ public class entwurfSpiel {
         "| | | | | | | | \n"+
         "| | | |x|x| | | \n"+
         "---------------");
+        System.out.println(" ");
+        System.out.println(" ");
 
 
         System.out.println("______________________________________________");
+        System.out.println(" ");
         System.out.println("----------------- YOU WIN! -------------------");
         System.out.println(" ");
         System.out.println("Now you have a new artifact!");
@@ -602,7 +730,10 @@ public class entwurfSpiel {
                         "                  __/ |                  \n" + //
                         "                 |___/ ");
         System.out.println(" ");
+        System.out.println("Please press Enter to continue ");
+        System.out.println(" ");
         System.out.println("______________________________________________");
+        System.out.println(" ");
 
 
         System.out.println("----The BigBoss defeted"+" Superhero.1(Name)"+"----");
@@ -615,7 +746,9 @@ public class entwurfSpiel {
                         " \\__,_|\\___|_| \\___|\\__,_|\\__|");
         System.out.println(" ");                
         System.out.println("Do you want to try again?");
-        System.out.println("(1)Yes"+"    "+"(2)No");                
+        System.out.println("(1)Yes"+"    "+"(2)No");
+        System.out.println(" ");
+        System.out.println("Please press a number between 1 and 2: ");                
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -632,6 +765,8 @@ public class entwurfSpiel {
 
         System.out.println(" ");
         System.out.println("Superhero.1(Name)"+" has started dancing");
+        System.out.println(" ");
+        System.out.println(" ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
@@ -639,10 +774,14 @@ public class entwurfSpiel {
         System.out.println(" ");
         System.out.println("Are you sure you want to quit the Raid?");
         System.out.println("(1)Yes"+"    "+"(2)No");
+        System.out.println(" ");
+        System.out.println("Please press a number between 1 and 2: ");
         System.out.println("______________________________________________");
         System.out.println(" ");
 
         System.out.println("You have successfully quit the Raid!");
+        System.out.println(" ");
+        System.out.println("Please press Enter to continue ");
         System.out.println("______________________________________________");
         System.out.println("______________________________________________");
 
